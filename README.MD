@@ -105,6 +105,7 @@ kagglehub.model_download("jatinnahatajain/protein-rnn-gru/pytorch/baseline")
 
 ```
 ├── notebook.ipynb          # Main Kaggle notebook
+├── Report.pdf              # Report on Notebook
 └── README.md               # This file
 ```
 
