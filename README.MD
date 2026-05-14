@@ -155,3 +155,7 @@ kagglehub.model_download("jatinnahatajain/protein-rnn-gru/pytorch/baseline")
 **Jatin Nahata Jain** — [Kaggle Profile](https://www.kaggle.com/jatinnahatajain)
 
 ---
+
+## License
+
+This project is open source and available under the [MIT License](LICENSE).
